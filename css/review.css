@@ -1,0 +1,294 @@
+.pie,
+.c100 .bar,
+.c100.p51 .fill,
+.c100.p52 .fill,
+.c100.p53 .fill,
+.c100.p54 .fill,
+.c100.p55 .fill,
+.c100.p56 .fill,
+.c100.p57 .fill,
+.c100.p58 .fill,
+.c100.p59 .fill,
+.c100.p60 .fill,
+.c100.p61 .fill,
+.c100.p62 .fill,
+.c100.p63 .fill,
+.c100.p64 .fill,
+.c100.p65 .fill,
+.c100.p66 .fill,
+.c100.p67 .fill,
+.c100.p68 .fill,
+.c100.p69 .fill,
+.c100.p70 .fill,
+.c100.p71 .fill,
+.c100.p72 .fill,
+.c100.p73 .fill,
+.c100.p74 .fill,
+.c100.p75 .fill,
+.c100.p76 .fill,
+.c100.p77 .fill,
+.c100.p78 .fill,
+.c100.p79 .fill,
+.c100.p80 .fill,
+.c100.p81 .fill,
+.c100.p82 .fill,
+.c100.p83 .fill,
+.c100.p84 .fill,
+.c100.p85 .fill,
+.c100.p86 .fill,
+.c100.p87 .fill,
+.c100.p88 .fill,
+.c100.p89 .fill,
+.c100.p90 .fill,
+.c100.p91 .fill,
+.c100.p92 .fill,
+.c100.p93 .fill,
+.c100.p94 .fill,
+.c100.p95 .fill,
+.c100.p96 .fill,
+.c100.p97 .fill,
+.c100.p98 .fill,
+.c100.p99 .fill,
+.c100.p100 .fill {
+    border-color: #00b14f;
+}
+.c100:hover > span {
+    color: #00b14f;
+}
+.c100 > span {
+    color: #757575;
+}
+#company-review div.rating-container {
+    text-align: inherit;
+}
+#company-review div.rating-container div.stars {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+#company-review div.rating-container span {
+    padding-top: 0;
+    display: inline-block;
+    margin-left: 12px;
+}
+#company-review .rate-title {
+    font-weight: 600;
+}
+#company-review .rating-container .fa-star.active {
+    background-color: #00b14f;
+}
+#company-review blockquote,
+#review-all blockquote {
+    font-size: inherit;
+    font-style: italic;
+    margin-top: 5px;
+    color: #666;
+    border-left: 2px solid #00b14f;
+}
+#company-review #reviewed-content div.rating-container div.stars {
+    padding: 0;
+}
+#company-review .small-tips {
+    background-color: #f1f1f1;
+    padding: 2px 5px;
+    outline: 1px dashed;
+}
+#company-review .small-tips li {
+    margin-bottom: 5px;
+}
+#company-review .checkbox-ask {
+    margin-left: -17px;
+}
+#company-review .ask-recommend {
+    margin-bottom: 15px;
+}
+.company-jobs .jobs span {
+    display: inline-block;
+    color: #444;
+    padding: 3px 10px;
+    margin-right: 2px;
+    text-decoration: none;
+    vertical-align: middle;
+    margin-bottom: 7px;
+    outline: 1px solid #dfdfdf;
+}
+#company-review .left-box-title {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+#company-review .rating-container .stars i {
+    font-size: 15px;
+}
+#company-review .review-recommend {
+    margin-top: 20px;
+}
+#company-review .review-title {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.rate-block {
+    margin-bottom: 10px;
+}
+.company-jobs .name {
+    color: #00b14f;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-size: 16px;
+    text-align: center;
+}
+.company-jobs .job-title {
+    font-weight: 600;
+}
+.company-jobs hr {
+    margin: 10px 0;
+}
+.checkbox-success input[type="checkbox"]:checked + label::before,
+.checkbox-success input[type="radio"]:checked + label::before {
+    background-color: #00b14f;
+    border-color: #00b14f;
+}
+#review-all {
+    margin-top: 15px;
+}
+#review-all .rating-container {
+    text-align: left;
+}
+#review-all .rating-container .fa-star.active {
+    background-color: #00b14f;
+}
+#review-all .review-recommend {
+    margin-top: 7px;
+}
+#review-all .rating-container span {
+    display: inline-block;
+    padding-top: 0;
+    margin-left: 5px;
+    color: #666;
+}
+#review-all .rating-container div.stars {
+    display: inline-block;
+}
+#review-all .box-company-title {
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+#review-all .rating-container .stars {
+    margin-bottom: 15px;
+}
+#review-all .c100:hover > span {
+    color: #00b14f;
+}
+#review-all .c100 > span {
+    color: #757575;
+}
+#review-all .review-overall-text {
+    margin: 30px 0 0 -10px;
+    font-size: 15px;
+}
+#review-all .rating i {
+    font-size: 20px;
+    padding: 3px;
+    color: #fff;
+    cursor: pointer;
+    background: #ccc;
+    margin-right: 3px;
+}
+#review-all .rating i.active {
+    background-color: #00b14f;
+}
+#review-all .active-star {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1;
+    overflow: hidden;
+}
+#review-all .star-bar {
+    font-size: 0;
+    position: relative;
+    white-space: nowrap;
+    display: inline-block;
+    margin: 0 auto;
+}
+#review-all .rating-overall {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#review-all .overall-rate,
+#review-all .score-rate {
+    font-size: 20px;
+    color: #00b14f;
+    font-weight: 600;
+    display: inline-block;
+    margin-left: 20px;
+}
+#review-all .score-rate {
+    font-size: 18px;
+}
+#review-all .rating-container .stars i {
+    font-size: 15px;
+}
+#review-all .rating-small {
+    margin-top: 10px;
+}
+#review-all .rating-small i {
+    font-size: 15px;
+    margin-right: 3px;
+    padding: 2px;
+}
+#review-all .rating-small i.active:nth-child(5) {
+    margin-right: 0;
+}
+#review-all #review-count {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+#review-all .review-title {
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+.small-tips ul {
+    margin: 20px;
+    padding: 0;
+}
+#review-form label,
+#reviewed-content label {
+    color: #333;
+}
+#review-form .tips {
+    color: #333;
+    margin-bottom: 5px;
+}
+#company-review .col-right-box-title {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 14px;
+    text-align: center;
+}
+.rating .rating-label {
+    display: block;
+}
+.rating .rating-stars {
+    margin-top: 5px;
+    display: inline-block;
+}
+#review-all .review-box .rating i {
+    font-size: 30px;
+    padding: 4px 4px 2px 7px;
+}
+.box {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.box-white {
+    background-color: #fff;
+}
